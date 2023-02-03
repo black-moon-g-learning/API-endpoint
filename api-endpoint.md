@@ -25,7 +25,7 @@ https://g-learning.click/
     a. endpoint
 
     ```
-    https://g-learning.click/api/continent/{id}
+    https://g-learning.click/api/continents/{id}
 
     ```
     b. params
@@ -44,7 +44,7 @@ https://g-learning.click/
     a. endpoint
 
     ```
-    https://g-learning.click/api/country/{id}/topics
+    https://g-learning.click/api/countries/{id}/topics
     ```
      b. params
 
