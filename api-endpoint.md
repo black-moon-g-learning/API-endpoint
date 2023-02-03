@@ -55,3 +55,18 @@ https://g-learning.click/
     c. response
 
         array
+
+4. GET videos of a country topic
+
+    a. endpoint
+
+        https://g-learning.click/api/countries-topics/{id}/videos
+    b. params
+
+        id ->integer
+
+        example: 1,2
+
+    c. response
+
+        array
