@@ -19,6 +19,9 @@ https://g-learning.click/
     c. response
 
         array
+    d. method
+
+        GET
 
 2. GET countries in a continents
    
@@ -38,6 +41,9 @@ https://g-learning.click/
 
         array with popular and countries
 
+    d. method
+
+        GET
 
 3. GET topic of a country
    
@@ -55,6 +61,9 @@ https://g-learning.click/
     c. response
 
         array
+    d. method
+
+        GET
 
 4. GET videos of a country topic
 
@@ -70,3 +79,30 @@ https://g-learning.click/
     c. response
 
         array
+5. Login 
+   
+    a. endpoint
+
+        https://g-learning.click/api/login
+    
+    b. params
+    
+        username: fasfdsdfdsfdsf
+        password: 123456789
+    c. response
+
+        array
+
+        {
+            "message": "success",
+            "data": {
+                "status": true,
+                "token": "4|VCL67xahQpnBQ1GsnoJ1hBOnOJ4vB58UjPxrwLke",
+                "type": "Bearer Token"
+            }
+        }
+
+    d. method
+
+        POST
+    
