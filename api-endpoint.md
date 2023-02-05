@@ -105,4 +105,30 @@ https://g-learning.click/
     d. method
 
         POST
+6. Register
+   
+    a. endpoint
+
+        https://g-learning.click/api/register
+    b. params
+
+        [
+            username,
+            password,
+            password_confirm,
+            phone
+        ]
+    c. response
+
+        array
+    d. method
+
+        POST
+    e. Example
+
+    ![alt text](./assets/Screenshot%20from%202023-02-05%2016-33-43.png)
+    
+
+
+
     
