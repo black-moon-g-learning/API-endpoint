@@ -151,6 +151,25 @@ https://g-learning.click/
 
         Please need to search from 2 symbols
 
+8. Get information in maybe you don't know
+   
+    a. endpoint
+
+        https://g-learning.click/api/information
+
+    b. param
+    
+        null
+
+    c. response
+
+        an array with paginate
+
+    d. example
+
+    ![alt text](assets/information.png)
+    
+
 
 
 
