@@ -127,7 +127,31 @@ https://g-learning.click/
     e. Example
 
     ![alt text](./assets/Screenshot%20from%202023-02-05%2016-33-43.png)
+
+7. Search
     
+    a. endpoint
+
+        https://g-learning.click/api/countries-topics/{id}/videos?s={search}
+    b. params
+
+        id -> integer
+        search-> string
+    c. response
+
+        array
+    d. example
+
+    ![alt text](assets/Screenshot%20from%202023-02-06%2017-10-59.png)
+
+    e. method
+
+        GET
+    f. note
+
+        Please need to search from 2 symbols
+
+
 
 
 
