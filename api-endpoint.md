@@ -169,7 +169,26 @@ https://g-learning.click/
 
     ![alt text](assets/information.png)
     
+9. Get services information
 
+    a. endpoint
+
+        https://g-learning.click/api/services
+    b. response 
+
+        {
+            "message": "success",
+            "data": [
+                {
+                "id": 1,
+                "name": "Damien McCullough",
+                "description": "https://via.placeholder.com/640x480.png/00cc00?text=animal+iusto",
+                "price": 17000,
+                "unit": "VND",
+                "image": "https://via.placeholder.com/640x480.png/00cc00?text=animal+iusto"
+                }
+            ]
+        }
 
 
 
