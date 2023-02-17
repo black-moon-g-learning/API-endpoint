@@ -189,8 +189,13 @@ https://g-learning.click/
                 }
             ]
         }
+10. Get levels of games
 
+    a. endpoint 
 
+        https://g-learning.click/api/levels
+    b. METHOD
 
-
-    
+        GET
+    c. response
+    ![alt text](./assets/levels.png)
