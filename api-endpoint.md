@@ -199,3 +199,18 @@ https://g-learning.click/
         GET
     c. response
     ![alt text](./assets/levels.png)
+11. Get list countries
+    
+    a. endpoint
+
+        https://g-learning.click/api/countries?page={page}
+    b.method
+
+        GET
+
+    c. param
+
+        page -> integer
+    d. response
+    ![alt text](./assets/get-list-countries.png)
+        
