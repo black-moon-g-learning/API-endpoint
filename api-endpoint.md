@@ -213,4 +213,17 @@ https://g-learning.click/
         page -> integer
     d. response
     ![alt text](./assets/get-list-countries.png)
+12. Get list question in a country(Game lv 1) 
+    
+    a. endpoint 
+
+        https://g-learning.click/api/countries/{id}/questions
+    b. method
         
+        GET
+    c. param
+
+        id->integer
+    d. response
+
+    ![alt text](assets/list-question-in-country.png)
