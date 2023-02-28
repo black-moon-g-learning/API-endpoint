@@ -212,7 +212,7 @@ https://g-learning.click/
 
         page -> integer
     d. response
-    ![alt text](./assets/get-list-countries.png)
+    ![alt text](./assets/list-country-history.png)
 12. Get list question in a country(Game lv 1) 
     
     a. endpoint 
