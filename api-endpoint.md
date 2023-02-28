@@ -227,3 +227,14 @@ https://g-learning.click/
     d. response
 
     ![alt text](assets/list-question-in-country.png)
+13. Create new history when user play game
+
+    a. endpoint
+
+        https://g-learning.click/api/countries/user-play-game
+    b. method
+
+        method
+    c. example
+
+    ![alt text](assets/create-history.png)
