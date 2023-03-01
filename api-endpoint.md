@@ -234,7 +234,18 @@ https://g-learning.click/
         https://g-learning.click/api/countries/user-play-game
     b. method
 
-        method
+        POST
     c. example
 
     ![alt text](assets/create-history.png)
+
+14. Search Countries
+
+    a. endpoint 
+
+        https://g-learning.click/api/continents/{id}?s={text}
+    b. method
+
+        GET
+    C. example
+    ![alt text](assets/search-country.png)
