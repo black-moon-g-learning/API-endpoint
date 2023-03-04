@@ -249,3 +249,16 @@ https://g-learning.click/
         GET
     C. example
     ![alt text](assets/search-country.png)
+    
+15. Error when expired trail days
+    
+    a. endpoint
+
+        Every  endpoints without: 
+            + payment
+            + profile (include update profile)
+    b. method
+
+        GET
+    c. example
+    ![alt text](assets/error-expired-trial-days.png)
