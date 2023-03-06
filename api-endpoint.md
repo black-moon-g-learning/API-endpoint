@@ -262,3 +262,19 @@ https://g-learning.click/
         GET
     c. example
     ![alt text](assets/error-expired-trial-days.png)
+
+16. Store data after user play game
+
+    a. endpoint 
+
+        https://g-learning.click/api/countries/{id}/history-play-game
+    b. method
+
+        POST
+    c. param
+    
+        id->integer
+        total_questions->integer| grater than total_correct_answers
+        total_correct_answers->integer
+    d. example 
+    ![alt text](assets/history-play-game.png)
