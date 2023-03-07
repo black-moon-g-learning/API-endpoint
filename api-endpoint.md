@@ -278,3 +278,19 @@ https://g-learning.click/
         total_correct_answers->integer
     d. example 
     ![alt text](assets/history-play-game.png)
+
+17. Get review question
+    
+    a. endpoint
+
+        https://g-learning.click/api/videos/{id}/questions
+    b. method
+
+        GET
+    c. param
+
+        id->integer
+
+    d. example
+
+    ![alt text](assets/reivew.png)
