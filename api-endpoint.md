@@ -293,4 +293,4 @@ https://g-learning.click/
 
     d. example
 
-    ![alt text](assets/reivew.png)
+    ![alt text](assets/review-2.png)
