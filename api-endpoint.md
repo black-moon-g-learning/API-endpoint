@@ -294,3 +294,13 @@ https://g-learning.click/
     d. example
 
     ![alt text](assets/review-2.png)
+18. Search countries in  game page
+     a. endpoint 
+
+        https://g-learning.click/api/countries?s={text}
+    b. method
+
+        GET
+    C. example
+    ![alt text](/assets/search-countries.png)
+    
